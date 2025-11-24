@@ -57,13 +57,14 @@ A quiz platform where users answer questions and view scores.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsgauravkumar07&show_icons=true&theme=dark&hide_border=true" height="150px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsgauravkumar07&theme=dark&hide_border=true" height="150px"/>
+  <img src="https://github-readme-stats-git-master-builtbybel.vercel.app/api?username=itsgauravkumar07&show_icons=true&theme=dark&hide_border=true" height="150px"/>
+  <img src="https://streak-stats.demolab.com/?user=itsgauravkumar07&theme=dark&hide_border=true" height="150px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsgauravkumar07&layout=compact&theme=dark&hide_border=true" height="150px"/>
+  <img src="https://github-readme-stats-git-master-builtbybel.vercel.app/api/top-langs/?username=itsgauravkumar07&layout=compact&theme=dark&hide_border=true" height="150px"/>
 </p>
+
 
 ---
 
