@@ -1,67 +1,94 @@
-# 👋 Hey, I'm Gaurav Kumar!
-
-### Frontend Developer | React | JavaScript | Tailwind CSS
-
-I love building clean, responsive and user-friendly web apps.  
-Currently focused on leveling up my React skills and preparing for frontend internships.
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
+<h3 align="center">Frontend Developer | React | JavaScript | Tailwind CSS</h3>
 
 ---
 
-## 🚀 Skills & Tools
+## 🧑‍💻 About Me
+- 🎓 B.Tech CSE Student  
+- 💻 Passionate Frontend Developer focused on **React & UI development**  
+- 🌱 Currently learning **Advanced React + Backend basics (Node.js)**  
+- 🚀 Looking for a **Frontend Internship** to contribute and grow  
+- 🎨 Love clean UI, smooth UX, and modern web design
+
+---
+
+## 🚀 Tech Stack
 
 ### **Frontend**
-- HTML  
-- CSS  
-- JavaScript  
-- React  
-- Tailwind CSS  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
 
 ### **UI/UX**
-- Figma  
-- Wireframing & Prototyping  
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
 
 ### **Tools**
-- Git & GitHub  
-- VS Code  
-- Netlify / Vercel  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔗 **BillWise – Subscription Tracker App**
-A React + Tailwind app to manage and visualize recurring subscriptions.  
-**[GitHub Repo](https://github.com/itsgauravkumar07/BillWise)**
-
-### 🔗 **Expenses Tracker – Personal Finance Dashboard**
-Track, categorize and analyze personal expenses with a clean dashboard UI.  
-**[GitHub Repo](https://github.com/itsgauravkumar07/expenses-tracker)**
-
-### 🔗 **QuizBee – Interactive Quiz Platform**
-A quiz app built with React, letting users choose categories and view scores.  
-**[GitHub Repo](https://github.com/itsgauravkumar07/QuizBee)**
+### 🔹 **BillWise – Subscription Tracker**
+A complete subscription/expense tracking UI built with React + Tailwind.  
+👉 **Repo:** *https://github.com/itsgauravkumar07/BillWise*  
+👉 **Live Demo:** *https://bill-wise1.vercel.app/*
 
 ---
 
-## 📚 What I'm Learning Now
-- Advanced React concepts  
-- Backend fundamentals (Node.js & APIs)  
-- How to build full-stack projects  
+### 🔹 **Expenses Tracker – Personal Finance Dashboard**
+Dashboard to track, categorize, and analyze expenses.  
+👉 **Repo:** *https://github.com/itsgauravkumar07/expenses-tracker*  
+👉 **Live Demo:** *https://trackwise-expense.vercel.app/*
 
 ---
 
-## 🎯 Goals for 2025
-- Get a **frontend internship**  
-- Build 4–5 polished real-world projects  
-- Improve UI skills + learn backend basics  
+### 🔹 **QuizBee – Interactive Quiz App**
+A quiz platform where users answer questions and view scores.  
+👉 **Repo:** *https://github.com/itsgauravkumar07/QuizBee*  
+👉 **Live Demo:** *https://quiz-bee-1.vercel.app/*
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsgauravkumar07&show_icons=true&theme=dark&hide_border=true" height="150px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsgauravkumar07&theme=dark&hide_border=true" height="150px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsgauravkumar07&layout=compact&theme=dark&hide_border=true" height="150px"/>
+</p>
+
+---
+
+## 🎯 2025 Goals
+- Build **5+ real-world projects**  
+- Learn **Node.js + APIs**  
+- Improve UI/UX skills  
+- Get a **Frontend Developer Internship**
 
 ---
 
 ## 📫 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/itsgaurav-kumar/  
-- **Email:** 01itsgauravpal@gmail.com  
-- **Portfolio (coming soon)**
+<p>
+  <a href="https://www.linkedin.com/in/itsgaurav-kumar/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:01itsgauravpal@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
+
+### ⭐ Thanks for visiting my profile!  
+
 
 ### Thanks for visiting my GitHub profile! 🙌  
